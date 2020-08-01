@@ -3,7 +3,7 @@ Corpus + explanation
 
 #### Overview
 
-Our **[corpus](https://github.ubc.ca/ltian05/proj_adv_corpus_linguistics/tree/master/corpus)** 
+Our **[corpus](https://github.com/AARON42695/Social_Media_Corpus_on_COVID-19/tree/master/Corpus/data)** 
 (click here for the collected corpus) comprises of two csv files, one for each source, 
 [Weibo](https://www.weibo.com/us) and
 [Twitter](https://twitter.com). We searched for posts that referenced
